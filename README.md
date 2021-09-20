@@ -1,6 +1,6 @@
 # FetchRewards
 Fetch Rewards Interview Assessment
 
-* POST /createTransaction 
-* POST /spendPoints
-* GET /pointsBalance
+* POST /createTransaction : Saves a transaction to Transaction List
+* POST /spendPoints : Process spend points
+* GET /pointsBalance : Provides a Map of all payers and points
