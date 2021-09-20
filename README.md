@@ -27,11 +27,13 @@ Ex. { "points": 5000 }
 
 ### POST request using /createTransaction ###
 1. Select POST request option and copy + paste -> http://localhost:8080/createTransaction to path
-2. Enter JSON file provided in example above and run (Transaction should be return with a Status code: 201 Created)
+2. Select body, raw, and JSON as body format
+3. Enter JSON file provided in example above and run (Transaction should be return with a Status code: 201 Created)
 
 ### POST request using /spendPoints ###
 1. Select POST request option and copy + paste -> http://localhost:8080/spendPoints to path
-2. Enter JSON file provided in example above and run (List of amount spent per payer should be returned with a Status code: 201 Created )
+2. Select Body, raw, and JSON as body format
+3. Enter JSON file provided in example above and run (List of amount spent per payer should be returned with a Status code: 201 Created )
 
 
 ### GET request using /pointsBalance ###
