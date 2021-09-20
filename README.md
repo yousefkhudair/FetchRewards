@@ -18,3 +18,10 @@ Ex. { "points": 5000 }
 
 ### JSON object structure for /pointsBalance ###
  *NO JSON NEEDED FOR GET REQUEST* 
+
+
+### How to run Application ###
+1. Clone repository
+2. Using IDE of choice open file and navigate to InterviewApplication.java and run main
+3. Navigate to Postman application (If already downloaded if not download Postman)
+4. Select POST request option and use path : * http://localhost:8080/pointsBalance *
