@@ -24,4 +24,5 @@ Ex. { "points": 5000 }
 1. Clone repository
 2. Using IDE of choice open file and navigate to InterviewApplication.java and run main
 3. Navigate to Postman application (If already downloaded if not download Postman)
-4. Select POST request option and use path : * http://localhost:8080/pointsBalance *
+4. Select POST request option and copy + paste -> http://localhost:8080/pointsBalance to path
+5. Enter JSON file provided in example above
