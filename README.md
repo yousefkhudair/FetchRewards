@@ -17,7 +17,7 @@ Ex. { "points": 5000 }
 
 
 ### JSON object structure for /pointsBalance ###
- *NO JSON NEEDED FOR GET REQUEST* 
+ *NO JSON FILE NEEDED FOR GET REQUEST* 
 
 
 ### How to run Application ###
